@@ -1,0 +1,20 @@
+* Resources
+** Clinical trials dataset
+*** Important papers
+- AI-driven predictive biomarker discovery with contrastive learning to improve clinical trial outcomes
+*** Time to event dataset
+https://github.com/ErikinBC/SurvSet/
+* Task1
+Multi-modal integration of gene expression and clinical data for samples responding/non-responding to immune checkpoint inhibitor treatment.
+** COMPASS
+- Data for download: https://www.immuno-compass.com/download/index.html
+- Git repo: https://github.com/mims-harvard/COMPASS
+* Task2
+- Deep learning for subtype classification and feature selection via concrete autoencoder
+** Q
+1. WHat is A-learning
+2. what is meta-learning, q learning and D-learning
+* Ideas
+- Feature selection/exploration in deep learning
+  - Concrete Autoencoder
+  - Sparse autoencoder
